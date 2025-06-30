@@ -1,10 +1,10 @@
 <!-- Header GIF and Name -->
-[![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead" width="1000"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Lakshmi Prasanna Kumar</h1>
 <h3 align="center">A passionate frontend developer and DevOps Engineer from India</h3>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaiudbbhd&label=Profile%20views&color=0e75b6&style=flat" alt="chaiudbbhd" /> </p>
 
