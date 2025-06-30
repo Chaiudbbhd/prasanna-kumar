@@ -8,8 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaiudbbhd&label=Profile%20views&color=0e75b6&style=flat" alt="chaiudbbhd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaiudbbhd" alt="chaiudbbhd" /></a> </p>
+
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+  <img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 </p>
 
 - 🔭 I’m currently working on **🧾 WhisperDocs – Voice-to-Action Personal Task Manager**
