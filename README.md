@@ -1,6 +1,6 @@
 <!-- Header GIF and Name -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead" width="1000"/>
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead" width="900"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Lakshmi Prasanna Kumar</h1>
