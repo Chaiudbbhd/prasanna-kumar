@@ -1,7 +1,14 @@
+<!-- Header GIF and Name -->
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Lakshmi Prasanna Kumar</h1>
-<h3 align="center">A passionate frontend developer and Devops Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<h3 align="center">A passionate frontend developer and DevOps Engineer from India</h3>
+
+<!-- Coding GIF aligned right -->
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaiudbbhd&label=Profile%20views&color=0e75b6&style=flat" alt="chaiudbbhd" /> </p>
 
